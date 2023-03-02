@@ -1,1 +1,1 @@
-The goal of this project is to create a portfolio showcasing the projects that I have made in The Odin Project course. The webpage should be responsive to any potential screen sizes. 
+The goal of this project is to create a webpage to showcase some of the projects that I have made. The webpage should be responsive to looks good on any potential screen sizes.
